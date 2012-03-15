@@ -1,0 +1,7 @@
+
+@interface DGDrawView : NSView
+{
+
+}
+
+@end
